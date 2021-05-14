@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Clube da Leitura/1.0.0": {
+        "runtime": {
+          "Clube da Leitura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clube da Leitura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
